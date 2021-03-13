@@ -1,6 +1,6 @@
 # create-zec-app
 
-Boilerplate Zcash => MVC app
+Boilerplate Zcash => MVC CRUD app
 
 This is incomplete.
 
@@ -14,6 +14,7 @@ This is incomplete.
   - Should be able to send a transaction
   - Monitor sync process
   - (maybe): 
+    - Use stringified JSON for memo key:values ? (easier handling, better internationalization i think)
     - Support view key imports
     - Monitor note availability 
 
